@@ -1,0 +1,23 @@
+.cont-wrap{
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+}
+.cont-wrap div{
+    width: 100px;
+    margin-bottom: 20px;
+}
+.wrap-text{
+    background-color: brown;
+    text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cont-img{
+    background-color: brown;
+    text-align: center;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
